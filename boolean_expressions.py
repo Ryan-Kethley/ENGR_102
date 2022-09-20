@@ -6,9 +6,9 @@
 #               Sam Kinnard
 #               Caleb Lorimor
 #               Evan Slyter
-# Section:      513
+# Section:      565
 # Assignment:   LAB: topic 2 (team) part 1
-# Date:         DAY MONTH YEAR
+# Date:         9/16/2022
 #
 
 ############ Part A ############
